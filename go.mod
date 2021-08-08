@@ -1,4 +1,4 @@
-module github.com/thegoat-ir/cli-go
+module github.com/thegoat-ir/thegoat
 
 go 1.16
 

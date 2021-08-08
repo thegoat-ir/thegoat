@@ -34,7 +34,7 @@ var rootCmd = &cobra.Command{
 	Long: `The Goat ClI brings The Goat to your CLI.
 	
 Further information:
-    https://github.com/thegoat-ir/cli-go#readme
+    https://github.com/thegoat-ir/thegoat#readme
   `,
 }
 
