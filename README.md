@@ -9,7 +9,7 @@ Alternatively, you can install [thegoat-ir/cli](https://github.com/thegoat-ir/cl
 
 ## Quick start
 ```
-go get -u github.com/thegoat-ir/thegoat
+go install github.com/thegoat-ir/thegoat@latest
 thegoat --help
 ```
 
